@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mesut ORMANLI 
-- 🏢 Software Development Team Leader, Internet Banking & Call Center Applications @Şekerbank
+- 🏢 Software Development Team Leader, Internet Banking @Şekerbank
 - 🏫 Received my B.Sc. degree in Computer Science & Engineering from Marmara University.
 - 🧑‍💻 Have comprehensive and demonstrated development experience with Java EE and Oracle technologies, in both back-end and front-end.
 - 🏫 M.Sc. dropout, Computer Engineering, Marmara University. B.Sc. student, Sociology, Anadolu University.
