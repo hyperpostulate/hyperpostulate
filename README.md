@@ -2,7 +2,7 @@
 - Software Development Leader, Internet Banking & Call Center @Şekerbank.
 - Received my B.Sc. degree in Computer Science & Engineering from Marmara University.
 - Have comprehensive and demonstrated development experience with Java EE and Oracle technologies, in both back-end and front-end.
-- Currently working on and interested in software development teams' leadership, with "servant-leader" mentality.
+- Currently working on and interested in software development leadership, with "servant-leader" mentality.
 - M.Sc. dropout, Computer Engineering, Marmara University. B.Sc. student, Sociology, Anadolu University.
 - Interested in wireless and mobile networks, digital forensics and social network analysis in academical manner.
 
