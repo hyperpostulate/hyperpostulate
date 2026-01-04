@@ -1,5 +1,5 @@
 - Hi, I’m Mesut ORMANLI.
-- Digital Architecture Leader @ Şekerbank.
+- Digital Solutions & Security Leader @ Şekerbank.
 - Received my B.Sc. degree in Computer Science & Engineering from Marmara University.
 - Have comprehensive and demonstrated development experience with Java EE and Oracle technologies, in both back-end and front-end.
 - Currently working on and interested in software development leadership, with "servant-leader" mentality.
